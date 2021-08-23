@@ -586,7 +586,7 @@
 
   "progress_bar_text@progress.progress_screen_text": {
     "size": [ "default", 20 ],
-    "font_size": "small",
+    "font_size": "",
     "max_size": [ "100% - 8px", 20 ],
     "offset": [ 0, 9 ],
     "text": "#progress_text",
