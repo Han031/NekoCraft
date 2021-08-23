@@ -4,7 +4,7 @@
   // I C O N
   "icon_0": {
     "type": "image",
-    "$texture|default": "textures/ui-x/icon/none",
+    "texture": "",
     "size": [ 18 , 18 ],
     "anchor_from": "left_middle",
     "anchor_to": "left_middle"
