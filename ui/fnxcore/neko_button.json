@@ -3,8 +3,7 @@
 
     "button_panel@common_buttons.new_ui_binding_button_label": {
       "$anchor|default": "left_middle",
-      "offset": [ 0 , 0 ], //  X , Y
-      "$glyph_offset|default": [ 0, 0 ]
+      "offset": [ 0 , 1 ] //  X , Y
     },
 
     "light_text_button@common_buttons.light_text_button": {
