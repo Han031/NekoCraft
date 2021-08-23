@@ -576,10 +576,10 @@
       { "spacer": { "type": "panel", "size": [ 10 , 10 ]}},
 
       // VERSI UI
-      { "version@custom_settings_section.fxn_label": { "text": "NekoCraft Resourcepack\nCreated By Farhan(Han)" ,"shadow": false }},
+      { "version@custom_settings_section.fxn_label": { "text": "NekoCraft ResourcePack\nCreated By Farhan(Han)" ,"shadow": false }},
       { "spacer": { "type": "panel", "size": [ 3 , 3 ] }},
-      { "version@custom_settings_section.fxn_label": { "font_size":"", "text": "Ui Version : 1.6.1 Alpha" , "shadow": false }},
-      { "build@custom_settings_section.fxn_label": { "font_size":"", "text": "Build : 10" , "shadow": false }},
+      { "version@custom_settings_section.fxn_label": { "font_size":"", "text": "Ui Version : 1.0" , "shadow": false }},
+      { "build@custom_settings_section.fxn_label": { "font_size":"", "text": "Build : 1" , "shadow": false }},
       { "date@custom_settings_section.fxn_label": { "font_size":"", "text": "Update : 23 August 2021" , "shadow": false }},
       { "spacer": { "type": "panel", "size": [ 30 , 30 ]}},
 
