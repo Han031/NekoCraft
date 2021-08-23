@@ -1,0 +1,145 @@
+{
+    "namespace": "fnx",
+  
+  
+  
+      // Code By FarhanX
+      // Lastest Update 27 Juni 2020
+      
+      "hangar_icon": {
+        "type": "image",
+        "texture": "textures/fnxcore/start/icon_hangar",
+        "layer": 3,
+        "size": [ 16 , 16 ]
+      },
+    
+        "profile_iconx": {
+        "type": "image",
+        "texture": "textures/fnxcore/start/profile",
+        "layer": 3,
+        "size": [ 12 , 12 ]
+      },
+    
+        "play_icon": {
+        "type": "image",
+        "texture": "textures/fnxcore/start/play",
+        "layer": 3,
+        "size": [ 16 , 16 ],
+        "anchor_from": "left_middle",
+        "anchor_to": "left_middle"
+      },
+      
+        "store_icon": {
+        "type": "image",
+        "texture": "textures/fnxcore/start/store",
+        "layer": 3,
+        "size": [ 16 , 16 ],
+        "anchor_from": "left_middle",
+        "anchor_to": "left_middle"
+      },
+      
+        "achievements_icon": {
+        "type": "image",
+        "texture": "textures/fnxcore/start/achie",
+        "layer": 3,
+        "size": [ 16 , 16 ],
+        "anchor_from": "left_middle",
+        "anchor_to": "left_middle"
+      },
+      
+        "settings_icon": {
+        "type": "image",
+        "texture": "textures/fnxcore/start/settings",
+        "layer": 3,
+        "size": [ 16 , 16 ],
+        "anchor_from": "left_middle",
+        "anchor_to": "left_middle"
+      },
+
+        "exit_icon": {
+        "type": "image",
+        "texture": "textures/fnxcore/start/exit",
+        "layer": 3,
+        "size": [ 16, 16 ]
+      },
+      
+        "exit_icon2": {
+        "type": "image",
+        "texture": "textures/fnxcore/start/exit",
+        "layer": 3,
+        "size": [ 16, 16 ],
+        "anchor_from": "left_middle",
+        "anchor_to": "left_middle"
+      },
+      
+        "feedback_icon": {
+        "type": "image",
+        "texture": "textures/ui/Feedback",
+        "layer": 3,
+        "size": [ 10 , 10 ]
+      },
+      
+        "profile_icon": {
+        "type": "image",
+        "texture": "textures/fnxcore/start/profile",
+        "layer": 3,
+        "anchor_from": "left_middle",
+        "anchor_to": "left_middle",
+        "size": [ 16 , 16 ]
+      },
+
+       "information_icon": {
+        "type": "image",
+        "texture": "textures/fnxcore/start/information",
+        "layer": 3,
+        "anchor_from": "left_middle",
+        "anchor_to": "left_middle",
+        "size": [ 16 , 16 ]
+      },
+    
+      "Xbox_icon": {
+        "type": "image",
+        "texture": "textures/ui/xbox4",
+        "layer": 3,
+        "size": [ 27, 27 ]
+      },
+    
+      "change_skin_icon": {
+        "type": "image",
+        "anchor_from": "left_middle",
+        "anchor_to": "left_middle",
+        "texture": "textures/ui/hangar",
+        "layer": 3,
+        "size": [ 32, 16 ]
+      },
+
+      /*---ICON UNTUK DI UI MENAMBAH SERVER---*/
+
+      "add_icon_server": {
+        "type": "image",
+        "texture": "textures/fnxcore/server/add_server",
+        "layer": 3,
+        "size": [ 124 ,124 ],
+        "offset" : [ -100 , -5 ]
+      },
+
+
+      /*---ICON UNTUK DI SETTINGS---*/
+
+      "back_iconx": {
+      "type": "image",
+      "texture": "textures/fnxcore/settings/back_icon",
+      "layer": 3,
+      "size": [ 16 , 16 ]
+      },
+
+      "dialog_back": {
+      "type": "image",
+      "alpha": 0.10,
+      "texture": "textures/fnxcore/settings/dialog_settings",
+      "layer": 1,
+      "anchor_from": "top_left",
+      "anchor_to": "top_left",
+      "size": [ 32 , 16 ]
+      }
+  }
