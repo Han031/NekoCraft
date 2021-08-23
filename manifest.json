@@ -5,7 +5,7 @@
         "name": "§dNekofCraft",
         "uuid": "ebb58e12-5663-4247-b958-bc4466f73fa2",
         "version": [1, 0, 0],
-        "min_engine_version": [ 1, 16, 5 ]
+        "min_engine_version": [ 1, 16, 0 ]
     },
     "modules": [
         {
