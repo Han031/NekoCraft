@@ -4,7 +4,7 @@
         "description": "Di buat oleh farhan>< \nFacebook : FX(FarhanX)",
         "name": "§dNekofCraft",
         "uuid": "ebb58e12-5663-4247-b958-bc4466f73fa2",
-        "version": [1, 5, 0],
+        "version": [1, 0, 0],
         "min_engine_version": [ 1, 16, 5 ]
     },
     "modules": [
@@ -12,7 +12,7 @@
             "description": "Di buat oleh farhan>< \nFacebook : FX(FarhanX)",
             "type": "resources",
             "uuid": "39eb8974-3a5e-4fb6-a3cb-dcafdc254a59",
-            "version": [1, 5, 0]
+            "version": [1, 0, 0]
         }
     ]
 }
