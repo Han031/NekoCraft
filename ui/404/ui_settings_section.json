@@ -11,14 +11,13 @@
     "offset": [ 15, 0 ]
   },
 
-  "fxn_label_2": {
+  "recomended_label": {
     "type": "label",
-   // "font_type": "smooth",
-    "font_size": "extra_large",
+    "font_type": "",
     "size": [ "100%", "default" ],
-    "shadow": false,
-    "color": [],
-    "offset": [ 15, 0 ]
+    "text_alignment": "left",
+    "shadow": true,
+    "color": [ 1.0, 1.0, 1.0 ]
   },
 
   "graphic_button@settings_common.section_toggle_base": {
@@ -49,6 +48,7 @@
       { "a@custom_settings_section.fxn_label_2": { "text": "Grafis"}},
       { "a2": { "type": "panel", "size": [ 8 , 8]}},
       { //BRIGHTNESS
+        { "recomended_brightness@custom_settings_section.recomended_label": {"text": "Brightness Recomended : Terserah :) "}},
         "brightness_slider@settings_common.option_slider": {
           "ignored": "($is_holographic)",
           "$option_label": "#gamma_slider_label",
@@ -65,6 +65,7 @@
         }
       },
       { //FPS
+        { "recomended_grafis@custom_settings_section.recomended_label": {"text": "FPS Recomended : 60 "}},
         "max_framerate_slider@settings_common.option_slider": {
           "$option_label": "#max_framerate_slider_label",
           "$slider_name": "max_framerate",
@@ -79,6 +80,7 @@
           ]
         }
       },
+      { "recomended_msaa@custom_settings_section.recomended_label": {"text": "Anti-aliasing Recomended : 0 "}},
       {
         "msaa_slider@settings_common.option_slider": {
           "ignored": "($is_holographic or $is_win10_arm)",
@@ -101,6 +103,7 @@
           ]
         }
       },
+      { "recomended_distance@custom_settings_section.recomended_label": {"text": "Render-Distance Recomended : 5 - 6 "}},
       {
         "render_distance_slider@settings_common.option_slider": {
           "ignored": "($is_holographic)",
@@ -575,7 +578,7 @@
 
       { "spacer": { "type": "panel", "size": [ 10 , 10 ]}},
 
-      // VERSI UI
+      // VERSI UI 
       { "version@custom_settings_section.fxn_label": { "text": "NekoCraft ResourcePack\nCreated By Farhan(Han)" ,"shadow": false }},
       { "spacer": { "type": "panel", "size": [ 3 , 3 ] }},
       { "version@custom_settings_section.fxn_label": { "font_size":"", "text": "Ui Version : 1.0" , "shadow": false }},
